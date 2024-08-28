@@ -1,2 +1,2 @@
 # NanoTensor
-My implementation of a backpropagation engine. Inspired by Andrej Karpathy's micrograd.
+Implementation of a backpropagation engine and building of a neural network from pure Python. Inspired by Andrej Karpathy.
